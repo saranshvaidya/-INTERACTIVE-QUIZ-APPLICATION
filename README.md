@@ -2,9 +2,9 @@
 
 COMPANY: CODTECH IT SOLUTION
 
-NAME: SAKSHAM VIJAY KHOBRAGADE
+NAME: SARANSH DURGESH VAIDYA
 
-INTERN ID: CT04DA720
+INTERN ID: CT04DK477
 
 DOMAIN: FRONTEND WEB DEVELOPMENT
 
@@ -38,7 +38,7 @@ It fetches dynamic multiple-choice questions from the Open Trivia Database API a
 ## Installation
 
 1. Clone the repository:
- https://github.com/Sakshamk17/QUIZZY---INTERACTIVE-QUIZ-APPLICATION.git
+ https://github.com/saranshvaidya/QUIZZY---INTERACTIVE-QUIZ-APPLICATION.git
 
 2. Navigate to the project directory:
 cd quizzy
